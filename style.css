@@ -102,9 +102,11 @@
     cursor: pointer;
   }
   
+   /*
    {
     color: green;
   }
+  */
   
   footer {
     display: flex;
